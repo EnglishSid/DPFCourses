@@ -15,8 +15,11 @@ No centralized managed list of courses for a given role, recommendations are cro
 
 ![image](images/S2.png)<br>
 
-![image](images/S2.Example.png)<br>
+<br>
+
 _example_
+
+![image](images/S2.Example.png)<br>
 
 
 ### Limitations
@@ -40,8 +43,12 @@ This scenario can apply to both Scenario 1 and 2
 
 ![image](images/S3.png)<br>
 
-![image](images/S3.Example.png)<br>
+<br>
+
 _example_
+
+![image](images/S3.Example.png)<br>
+
 
 ### Sample Scripts
 
